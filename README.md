@@ -1,1 +1,1 @@
-This is a simple django project setup 
+This is a simple django project setup :D !!
